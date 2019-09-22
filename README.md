@@ -1,2 +1,2 @@
-# SubmarineGame
-A submarine game developed in Unity Engine
+# simple-2D-Platformer
+A 2D Platformer game developed in Unity Engine
